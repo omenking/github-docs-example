@@ -49,7 +49,7 @@ end
 - It should appear above the tab key, 
 - but it may vary based on your keyboard layout.
 
-<img width="200px" src="[Photo of the pipe character on our keyboard](assets/pipe-char.jpg)" />
+![back tick key](assets/backtick-key.jpg){width=250px}
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
