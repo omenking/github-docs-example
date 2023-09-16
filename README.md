@@ -49,7 +49,8 @@ end
 - It should appear above the tab key, 
 - but it may vary based on your keyboard layout.
 
-![back tick key](assets/backtick-key.jpg){width=250px}
+<img src="assets/backtick-key.jpg" alt="Image Alt Text" width="300px" />
+
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
