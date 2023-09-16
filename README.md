@@ -84,7 +84,7 @@ This is what a screenshot from your computer should look like
 
 **DO THIS INSTEAD**
 
-![Screenshot example](screenshot-example.png)
+![Screenshot example](assets/screenshot-example.png)
 
 To take screenshots on both macOS and Windows, you can use the following hotkeys:
 
